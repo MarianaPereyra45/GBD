@@ -1,0 +1,282 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,97,Argentina,3,Both,22,All ages,360,Intestinal nematode infections,1,Number,2019,0.8800692489505064,1.3616070306781662,0.46171382702892
+1,Deaths,97,Argentina,3,Both,22,All ages,361,Ascariasis,1,Number,2019,0.8800692489505064,1.3616070306781662,0.46171382702892
+1,Deaths,97,Argentina,3,Both,22,All ages,365,Other neglected tropical diseases,1,Number,2019,11.053090114749592,22.87776830637915,7.881719362039268
+1,Deaths,97,Argentina,3,Both,22,All ages,366,Maternal disorders,1,Number,2019,377.16930616858656,415.69276752446405,341.4839245791461
+1,Deaths,97,Argentina,3,Both,22,All ages,367,Maternal hemorrhage,1,Number,2019,40.44951907097018,49.61279156965414,32.096592221199934
+1,Deaths,97,Argentina,3,Both,22,All ages,368,Maternal sepsis and other maternal infections,1,Number,2019,41.891666826529054,50.59881147332197,34.055474935567545
+1,Deaths,97,Argentina,3,Both,22,All ages,369,Maternal hypertensive disorders,1,Number,2019,46.95142458077015,53.89454540770235,40.181055596760146
+1,Deaths,97,Argentina,3,Both,22,All ages,370,Maternal obstructed labor and uterine rupture,1,Number,2019,3.9147616738996867,5.117882258316423,2.9613247579426774
+1,Deaths,97,Argentina,3,Both,22,All ages,374,Ectopic pregnancy,1,Number,2019,6.002357915938274,7.2267373895081555,4.905164161741114
+1,Deaths,97,Argentina,3,Both,22,All ages,375,Indirect maternal deaths,1,Number,2019,80.86967777600557,96.21211521846098,67.61391380756162
+1,Deaths,97,Argentina,3,Both,22,All ages,376,Late maternal deaths,1,Number,2019,33.52037940020406,41.42163739976995,26.343270277336895
+1,Deaths,97,Argentina,3,Both,22,All ages,329,Otitis media,1,Number,2019,1.0565980884576578,1.7977766479925872,0.6397592797073736
+1,Deaths,97,Argentina,3,Both,22,All ages,332,Meningitis,1,Number,2019,452.667071227531,495.86765279593715,407.13927529408465
+1,Deaths,97,Argentina,3,Both,22,All ages,337,Encephalitis,1,Number,2019,226.17335495404492,254.5566088512026,193.57459174363353
+1,Deaths,97,Argentina,3,Both,22,All ages,338,Diphtheria,1,Number,2019,0.051396877045557184,0.07357977058641939,0.041164745902308446
+1,Deaths,97,Argentina,3,Both,22,All ages,339,Whooping cough,1,Number,2019,17.81597784448328,36.145001137701215,8.580799532081679
+1,Deaths,97,Argentina,3,Both,22,All ages,340,Tetanus,1,Number,2019,6.667535392021313,20.295625032863313,3.397302897146669
+1,Deaths,97,Argentina,3,Both,22,All ages,294,All causes,1,Number,2019,348822.57998434885,356183.6550757176,342133.3902910787
+1,Deaths,97,Argentina,3,Both,22,All ages,295,"Communicable, maternal, neonatal, and nutritional diseases",1,Number,2019,46374.86407839559,50247.887844780416,41842.17220035768
+1,Deaths,97,Argentina,3,Both,22,All ages,297,Tuberculosis,1,Number,2019,726.8908082463589,799.6159070981079,663.9952266599282
+1,Deaths,97,Argentina,3,Both,22,All ages,298,HIV/AIDS,1,Number,2019,1776.9829443373983,1815.00741029,1737.572867005
+1,Deaths,97,Argentina,3,Both,22,All ages,300,HIV/AIDS resulting in other diseases,1,Number,2019,1001.6260205215997,1187.3869112099999,957.5545933924998
+1,Deaths,97,Argentina,3,Both,22,All ages,302,Diarrheal diseases,1,Number,2019,756.8058845060355,867.8421925209045,644.8287340851263
+1,Deaths,97,Argentina,3,Both,22,All ages,319,Typhoid fever,1,Number,2019,1.3439448560216722,2.3164704891542898,0.18820108467238786
+1,Deaths,97,Argentina,3,Both,22,All ages,320,Paratyphoid fever,1,Number,2019,0.046645037943821736,0.12421712526326228,0.006346146416836264
+1,Deaths,97,Argentina,3,Both,22,All ages,321,Other intestinal infectious diseases,1,Number,2019,1.6674409813124376,2.468145131239081,0.9788785601251884
+1,Deaths,97,Argentina,3,Both,22,All ages,322,Lower respiratory infections,1,Number,2019,36264.05940815202,39330.46056627603,32277.83921889321
+1,Deaths,97,Argentina,3,Both,22,All ages,328,Upper respiratory infections,1,Number,2019,3.5751744650298267,4.104630202536545,3.145766987354444
+1,Deaths,97,Argentina,3,Both,22,All ages,462,Non-melanoma skin cancer,1,Number,2019,468.87703664517704,507.2785043086257,421.4651796362151
+1,Deaths,97,Argentina,3,Both,22,All ages,465,Ovarian cancer,1,Number,2019,1759.60798547605,2006.6488836752308,1591.5290789073495
+1,Deaths,97,Argentina,3,Both,22,All ages,468,Testicular cancer,1,Number,2019,272.56404615001986,312.86916927128607,237.4282132985827
+1,Deaths,97,Argentina,3,Both,22,All ages,341,Measles,1,Number,2019,0.051595230492848934,0.12371794936197383,0.039577809169322936
+1,Deaths,97,Argentina,3,Both,22,All ages,342,Varicella and herpes zoster,1,Number,2019,22.222892062500833,42.89865640861212,15.701115810386671
+1,Deaths,97,Argentina,3,Both,22,All ages,344,Neglected tropical diseases and malaria,1,Number,2019,858.2995890191817,2791.77217042883,452.55268418785926
+1,Deaths,97,Argentina,3,Both,22,All ages,345,Malaria,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,346,Chagas disease,1,Number,2019,786.4086035542944,2729.753303595708,396.10180161410614
+1,Deaths,97,Argentina,3,Both,22,All ages,347,Leishmaniasis,1,Number,2019,1.1011750466288204,11.61827320750773,3.5781870139030946e-05
+1,Deaths,97,Argentina,3,Both,22,All ages,348,Visceral leishmaniasis,1,Number,2019,1.1011750466288204,11.61827320750773,3.5781870139030946e-05
+1,Deaths,97,Argentina,3,Both,22,All ages,350,African trypanosomiasis,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,351,Schistosomiasis,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,352,Cysticercosis,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,353,Cystic echinococcosis,1,Number,2019,7.480339331070806,10.537378266489114,4.848972493666722
+1,Deaths,97,Argentina,3,Both,22,All ages,357,Dengue,1,Number,2019,1.4048831124047272,2.1335775695125965,0.5915570405171322
+1,Deaths,97,Argentina,3,Both,22,All ages,358,Yellow fever,1,Number,2019,49.36998257314034,160.66498901695056,7.973359780832465
+1,Deaths,97,Argentina,3,Both,22,All ages,359,Rabies,1,Number,2019,0.5589994441838242,1.1632818408992975,0.2600217738367395
+1,Deaths,97,Argentina,3,Both,22,All ages,499,Cardiomyopathy and myocarditis,1,Number,2019,6176.158733658851,6899.043362798006,4844.6083900377025
+1,Deaths,97,Argentina,3,Both,22,All ages,500,Atrial fibrillation and flutter,1,Number,2019,2906.3766986490127,3729.8090944260152,2404.948293702947
+1,Deaths,97,Argentina,3,Both,22,All ages,379,Other maternal disorders,1,Number,2019,47.489062644760324,58.322444100538355,37.49293906407545
+1,Deaths,97,Argentina,3,Both,22,All ages,380,Neonatal disorders,1,Number,2019,3272.3829259080353,4099.3188450734015,2548.0836201417833
+1,Deaths,97,Argentina,3,Both,22,All ages,381,Neonatal preterm birth,1,Number,2019,1895.086441784894,2409.6554979573148,1456.9760764161115
+1,Deaths,97,Argentina,3,Both,22,All ages,382,Neonatal encephalopathy due to birth asphyxia and trauma,1,Number,2019,413.9132464605432,539.8351838430112,310.37872804290777
+1,Deaths,97,Argentina,3,Both,22,All ages,383,Neonatal sepsis and other neonatal infections,1,Number,2019,471.4526587014255,620.6021391154565,347.1610084824045
+1,Deaths,97,Argentina,3,Both,22,All ages,384,Hemolytic disease and other neonatal jaundice,1,Number,2019,11.522862671619254,16.905570786405168,7.628067311206615
+1,Deaths,97,Argentina,3,Both,22,All ages,385,Other neonatal disorders,1,Number,2019,480.4077162895506,632.2126312003035,350.31027268515754
+1,Deaths,97,Argentina,3,Both,22,All ages,386,Nutritional deficiencies,1,Number,2019,1330.1580059412158,1495.8128652028176,1167.5958442297433
+1,Deaths,97,Argentina,3,Both,22,All ages,387,Protein-energy malnutrition,1,Number,2019,1255.0463085359202,1418.9152395432397,1093.8153229431891
+1,Deaths,97,Argentina,3,Both,22,All ages,391,Other nutritional deficiencies,1,Number,2019,75.11169740529672,100.44754596836381,34.4836746884664
+1,Deaths,97,Argentina,3,Both,22,All ages,393,Sexually transmitted infections excluding HIV,1,Number,2019,53.94365652412864,62.371870664800106,46.44427209153703
+1,Deaths,97,Argentina,3,Both,22,All ages,394,Syphilis,1,Number,2019,25.235003658136982,32.83024066168568,19.36578222746999
+1,Deaths,97,Argentina,3,Both,22,All ages,395,Chlamydial infection,1,Number,2019,4.850671476484112,5.487000446584931,4.264488219173183
+1,Deaths,97,Argentina,3,Both,22,All ages,396,Gonococcal infection,1,Number,2019,15.551892665742818,17.42314624726595,13.79993042589635
+1,Deaths,97,Argentina,3,Both,22,All ages,399,Other sexually transmitted infections,1,Number,2019,8.30608872376482,9.417651076295126,7.38768602369924
+1,Deaths,97,Argentina,3,Both,22,All ages,400,Acute hepatitis,1,Number,2019,35.75441550847137,40.52034432659352,32.1399142752313
+1,Deaths,97,Argentina,3,Both,22,All ages,401,Acute hepatitis A,1,Number,2019,12.56641720439484,16.529763896001004,9.017106956923696
+1,Deaths,97,Argentina,3,Both,22,All ages,402,Acute hepatitis B,1,Number,2019,16.9263582346914,20.796919816988623,13.078051964573682
+1,Deaths,97,Argentina,3,Both,22,All ages,403,Acute hepatitis C,1,Number,2019,4.264150340401103,6.668374647640792,1.9925069799689208
+1,Deaths,97,Argentina,3,Both,22,All ages,404,Acute hepatitis E,1,Number,2019,1.9974897289840847,3.5035530618730863,1.0728959417293769
+1,Deaths,97,Argentina,3,Both,22,All ages,526,Digestive diseases,1,Number,2019,17791.96425016331,18918.322166091988,16527.960241892448
+1,Deaths,97,Argentina,3,Both,22,All ages,527,Peptic ulcer disease,1,Number,2019,957.4817626702032,1112.9640229007857,806.3653555234371
+1,Deaths,97,Argentina,3,Both,22,All ages,471,Kidney cancer,1,Number,2019,2774.8123048021944,3071.5966937097824,2487.436377646387
+1,Deaths,97,Argentina,3,Both,22,All ages,474,Bladder cancer,1,Number,2019,2075.6867797402124,2274.73317269301,1893.8259177760997
+1,Deaths,97,Argentina,3,Both,22,All ages,477,Brain and central nervous system cancer,1,Number,2019,1780.4554043246228,1971.9412731506513,1445.7521893470032
+1,Deaths,97,Argentina,3,Both,22,All ages,480,Thyroid cancer,1,Number,2019,292.2021342045532,322.0332055755654,266.60626963631427
+1,Deaths,97,Argentina,3,Both,22,All ages,483,Mesothelioma,1,Number,2019,219.2085392617699,238.95303093660044,181.0593098722245
+1,Deaths,97,Argentina,3,Both,22,All ages,484,Hodgkin lymphoma,1,Number,2019,218.17523440699213,272.5156157446959,187.0684706249144
+1,Deaths,97,Argentina,3,Both,22,All ages,485,Non-Hodgkin lymphoma,1,Number,2019,2201.6360049741907,2457.2936298115137,1983.6733536842462
+1,Deaths,97,Argentina,3,Both,22,All ages,486,Multiple myeloma,1,Number,2019,929.765766085999,1120.5636421620763,840.247826309457
+1,Deaths,97,Argentina,3,Both,22,All ages,487,Leukemia,1,Number,2019,2657.6819076842953,2838.5243085790466,2460.012293878817
+1,Deaths,97,Argentina,3,Both,22,All ages,490,Other neoplasms,1,Number,2019,539.5397275194586,672.7275854321083,395.28951789735146
+1,Deaths,97,Argentina,3,Both,22,All ages,491,Cardiovascular diseases,1,Number,2019,101724.56108168652,107336.99633806155,93384.29597743646
+1,Deaths,97,Argentina,3,Both,22,All ages,492,Rheumatic heart disease,1,Number,2019,1597.7726678220583,1923.8479935909281,1291.0989087070775
+1,Deaths,97,Argentina,3,Both,22,All ages,493,Ischemic heart disease,1,Number,2019,45371.1877528416,48541.67528384834,41257.05506307433
+1,Deaths,97,Argentina,3,Both,22,All ages,494,Stroke,1,Number,2019,26065.958730299848,28162.54091632192,23536.7504891261
+1,Deaths,97,Argentina,3,Both,22,All ages,495,Ischemic stroke,1,Number,2019,12807.247035893526,14209.651684512472,11144.974205738816
+1,Deaths,97,Argentina,3,Both,22,All ages,496,Intracerebral hemorrhage,1,Number,2019,10764.734000951134,11774.706542033031,9751.648600093677
+1,Deaths,97,Argentina,3,Both,22,All ages,501,Aortic aneurysm,1,Number,2019,1908.7672106120199,2105.392254357744,1715.6500385780466
+1,Deaths,97,Argentina,3,Both,22,All ages,502,Peripheral artery disease,1,Number,2019,257.486948449684,503.63400643848445,123.56442341063362
+1,Deaths,97,Argentina,3,Both,22,All ages,503,Endocarditis,1,Number,2019,1206.1013981473154,1443.2990706986093,944.9943521103438
+1,Deaths,97,Argentina,3,Both,22,All ages,504,Non-rheumatic valvular heart disease,1,Number,2019,2308.4024497067417,2570.62708454396,2001.4215601826788
+1,Deaths,97,Argentina,3,Both,22,All ages,508,Chronic respiratory diseases,1,Number,2019,19348.12345872802,21811.34452636178,16774.755613978017
+1,Deaths,97,Argentina,3,Both,22,All ages,509,Chronic obstructive pulmonary disease,1,Number,2019,16396.18826961915,18510.667909848577,14191.384442873612
+1,Deaths,97,Argentina,3,Both,22,All ages,510,Pneumoconiosis,1,Number,2019,35.6711509584993,42.133487783285965,29.519315255176384
+1,Deaths,97,Argentina,3,Both,22,All ages,511,Silicosis,1,Number,2019,18.13094920607186,22.227319337737683,14.408903191986631
+1,Deaths,97,Argentina,3,Both,22,All ages,512,Asbestosis,1,Number,2019,6.745571882430474,8.798425772364013,4.913861675071201
+1,Deaths,97,Argentina,3,Both,22,All ages,513,Coal workers pneumoconiosis,1,Number,2019,1.5608052799186518,2.292850010878624,0.8884338080131061
+1,Deaths,97,Argentina,3,Both,22,All ages,514,Other pneumoconiosis,1,Number,2019,9.23382459007825,11.631224240883007,6.941966025209539
+1,Deaths,97,Argentina,3,Both,22,All ages,515,Asthma,1,Number,2019,491.4763723148305,571.6693647876738,407.06931825476516
+1,Deaths,97,Argentina,3,Both,22,All ages,516,Interstitial lung disease and pulmonary sarcoidosis,1,Number,2019,1929.9189124742818,2539.010909119019,1529.2829197752296
+1,Deaths,97,Argentina,3,Both,22,All ages,520,Other chronic respiratory diseases,1,Number,2019,494.86875336122887,605.1193662993122,362.99039831115505
+1,Deaths,97,Argentina,3,Both,22,All ages,521,Cirrhosis and other chronic liver diseases,1,Number,2019,8524.537113039578,9269.56183635672,7831.902681009171
+1,Deaths,97,Argentina,3,Both,22,All ages,522,Cirrhosis and other chronic liver diseases due to hepatitis B,1,Number,2019,806.7594020791969,1124.6415937461493,558.7275753274673
+1,Deaths,97,Argentina,3,Both,22,All ages,523,Cirrhosis and other chronic liver diseases due to hepatitis C,1,Number,2019,3097.7395911501203,3907.030218893032,2389.331417559443
+1,Deaths,97,Argentina,3,Both,22,All ages,497,Subarachnoid hemorrhage,1,Number,2019,2493.9776934551496,2769.1327607078874,2265.791801524356
+1,Deaths,97,Argentina,3,Both,22,All ages,498,Hypertensive heart disease,1,Number,2019,8324.947765386807,10093.808658018263,7104.106995187876
+1,Deaths,97,Argentina,3,Both,22,All ages,615,Sickle cell disorders,1,Number,2019,0.36494708477224963,0.7002582402868283,0.1275714123232111
+1,Deaths,97,Argentina,3,Both,22,All ages,616,G6PD deficiency,1,Number,2019,43.2819654470306,54.33787555402786,32.87846166871158
+1,Deaths,97,Argentina,3,Both,22,All ages,618,Other hemoglobinopathies and hemolytic anemias,1,Number,2019,366.7824666060912,434.56666800144825,314.33968797363764
+1,Deaths,97,Argentina,3,Both,22,All ages,619,"Endocrine, metabolic, blood, and immune disorders",1,Number,2019,1297.732189936074,2634.6480400834066,1054.3771778950613
+1,Deaths,97,Argentina,3,Both,22,All ages,626,Musculoskeletal disorders,1,Number,2019,691.5855439024117,1010.3124321001077,467.2722407481278
+1,Deaths,97,Argentina,3,Both,22,All ages,627,Rheumatoid arthritis,1,Number,2019,230.89201048721262,356.93887637852407,160.77447915650012
+1,Deaths,97,Argentina,3,Both,22,All ages,639,Other musculoskeletal disorders,1,Number,2019,460.69353341519957,656.506417296956,306.48671811173983
+1,Deaths,97,Argentina,3,Both,22,All ages,640,Other non-communicable diseases,1,Number,2019,8945.255411371207,10020.357330705916,7224.974193783502
+1,Deaths,97,Argentina,3,Both,22,All ages,641,Congenital birth defects,1,Number,2019,2427.083038776706,3062.4348074864597,1672.0884672314078
+1,Deaths,97,Argentina,3,Both,22,All ages,642,Neural tube defects,1,Number,2019,226.18459538720194,293.1840583768659,166.1728555418737
+1,Deaths,97,Argentina,3,Both,22,All ages,643,Congenital heart anomalies,1,Number,2019,879.4159521091203,1128.0918695504868,548.2894194912752
+1,Deaths,97,Argentina,3,Both,22,All ages,644,Orofacial clefts,1,Number,2019,0.19535301261456264,0.30605738915952635,0.11719322189449317
+1,Deaths,97,Argentina,3,Both,22,All ages,645,Down syndrome,1,Number,2019,188.5794386608792,233.90707062625765,143.4503235992087
+1,Deaths,97,Argentina,3,Both,22,All ages,648,Other chromosomal abnormalities,1,Number,2019,178.6425791094308,235.05781627728496,133.89537845009102
+1,Deaths,97,Argentina,3,Both,22,All ages,649,Congenital musculoskeletal and limb anomalies,1,Number,2019,48.18721659998672,63.49874292849617,32.38906432284086
+1,Deaths,97,Argentina,3,Both,22,All ages,650,Urogenital congenital anomalies,1,Number,2019,73.74884295206064,104.0929419090492,38.17028008056656
+1,Deaths,97,Argentina,3,Both,22,All ages,651,Digestive congenital anomalies,1,Number,2019,242.01352177762305,326.06910784485706,159.57524140217228
+1,Deaths,97,Argentina,3,Both,22,All ages,408,Other unspecified infectious diseases,1,Number,2019,187.76684535166174,278.76112376014885,147.47052635982388
+1,Deaths,97,Argentina,3,Both,22,All ages,409,Non-communicable diseases,1,Number,2019,279801.6279554289,286445.83225573396,273614.5129938249
+1,Deaths,97,Argentina,3,Both,22,All ages,410,Neoplasms,1,Number,2019,85208.54363051741,88873.68613554505,80860.42730412298
+1,Deaths,97,Argentina,3,Both,22,All ages,411,Esophageal cancer,1,Number,2019,2759.3126952957577,3006.6850227994137,2526.931961749704
+1,Deaths,97,Argentina,3,Both,22,All ages,414,Stomach cancer,1,Number,2019,5119.576788214936,5510.332067331435,4754.661701114508
+1,Deaths,97,Argentina,3,Both,22,All ages,417,Liver cancer,1,Number,2019,1172.1713571792702,1267.6393559740652,1088.882936988365
+1,Deaths,97,Argentina,3,Both,22,All ages,418,Liver cancer due to hepatitis B,1,Number,2019,187.9669570387162,269.56184481678116,128.80725753789008
+1,Deaths,97,Argentina,3,Both,22,All ages,419,Liver cancer due to hepatitis C,1,Number,2019,424.6176512915977,538.9944431509413,312.88312094989396
+1,Deaths,97,Argentina,3,Both,22,All ages,420,Liver cancer due to alcohol use,1,Number,2019,385.0822345728646,497.3577258207582,274.4948302314111
+1,Deaths,97,Argentina,3,Both,22,All ages,423,Larynx cancer,1,Number,2019,1052.5565450411734,1150.0132704724783,964.9157432590467
+1,Deaths,97,Argentina,3,Both,22,All ages,426,"Tracheal, bronchus, and lung cancer",1,Number,2019,13878.930547715296,14718.944369830586,13000.132009646424
+1,Deaths,97,Argentina,3,Both,22,All ages,429,Breast cancer,1,Number,2019,8475.852230326165,9134.533785657968,7817.519992111739
+1,Deaths,97,Argentina,3,Both,22,All ages,432,Cervical cancer,1,Number,2019,3034.7958508117486,3353.534088264776,2408.9002351087565
+1,Deaths,97,Argentina,3,Both,22,All ages,435,Uterine cancer,1,Number,2019,796.9768529366967,891.7119716000192,708.8204804485406
+1,Deaths,97,Argentina,3,Both,22,All ages,438,Prostate cancer,1,Number,2019,6372.174889715726,8969.045513686684,5375.501669695149
+1,Deaths,97,Argentina,3,Both,22,All ages,528,Gastritis and duodenitis,1,Number,2019,81.37426159899023,98.7859560212484,65.42062771761142
+1,Deaths,97,Argentina,3,Both,22,All ages,529,Appendicitis,1,Number,2019,147.51736784608516,204.84932506258545,119.30478722708426
+1,Deaths,97,Argentina,3,Both,22,All ages,530,Paralytic ileus and intestinal obstruction,1,Number,2019,2917.148746106313,3338.391782915901,2307.3408592239057
+1,Deaths,97,Argentina,3,Both,22,All ages,531,"Inguinal, femoral, and abdominal hernia",1,Number,2019,314.7281388552694,358.27189013162405,273.9906273260509
+1,Deaths,97,Argentina,3,Both,22,All ages,532,Inflammatory bowel disease,1,Number,2019,143.3508811698398,168.56638382350843,124.11734074375998
+1,Deaths,97,Argentina,3,Both,22,All ages,533,Vascular intestinal disorders,1,Number,2019,1050.4536842349307,1183.6210624792743,923.108512187338
+1,Deaths,97,Argentina,3,Both,22,All ages,534,Gallbladder and biliary diseases,1,Number,2019,1396.1946382464312,1849.9734759180608,1104.720449124842
+1,Deaths,97,Argentina,3,Both,22,All ages,535,Pancreatitis,1,Number,2019,1041.5389411408403,1260.586969976785,917.092158498919
+1,Deaths,97,Argentina,3,Both,22,All ages,541,Other digestive diseases,1,Number,2019,1217.6387152548382,1520.7067204657178,659.9951405716812
+1,Deaths,97,Argentina,3,Both,22,All ages,542,Neurological disorders,1,Number,2019,16375.267875524009,36168.293654236084,7349.298769825071
+1,Deaths,97,Argentina,3,Both,22,All ages,543,Alzheimer's disease and other dementias,1,Number,2019,12044.64058206969,31989.11364723012,2933.152946298954
+1,Deaths,97,Argentina,3,Both,22,All ages,544,Parkinson's disease,1,Number,2019,3042.622979172298,3250.2179420045795,2757.7189161115093
+1,Deaths,97,Argentina,3,Both,22,All ages,545,Idiopathic epilepsy,1,Number,2019,344.4966943843131,366.2665352742189,315.8102071393852
+1,Deaths,97,Argentina,3,Both,22,All ages,546,Multiple sclerosis,1,Number,2019,139.74758587175282,256.828240272401,106.47984026146983
+1,Deaths,97,Argentina,3,Both,22,All ages,554,Motor neuron disease,1,Number,2019,361.6146252448431,390.4183902418526,326.7134521693522
+1,Deaths,97,Argentina,3,Both,22,All ages,557,Other neurological disorders,1,Number,2019,442.1454087810756,479.6335776383325,404.9073571558939
+1,Deaths,97,Argentina,3,Both,22,All ages,558,Mental disorders,1,Number,2019,0.9390787974431826,1.2246276930392435,0.7154528523872692
+1,Deaths,97,Argentina,3,Both,22,All ages,560,Alcohol use disorders,1,Number,2019,820.5116893105056,896.3826941409599,747.6810644229532
+1,Deaths,97,Argentina,3,Both,22,All ages,524,Cirrhosis and other chronic liver diseases due to alcohol use,1,Number,2019,2619.5467153097347,3435.248119153444,1875.743824866617
+1,Deaths,97,Argentina,3,Both,22,All ages,525,Cirrhosis and other chronic liver diseases due to other causes,1,Number,2019,1152.7458295621288,1569.837830420067,811.3922809322215
+1,Deaths,97,Argentina,3,Both,22,All ages,686,Sudden infant death syndrome,1,Number,2019,191.44580585194888,266.2252888656343,132.64421086394287
+1,Deaths,97,Argentina,3,Both,22,All ages,687,Injuries,1,Number,2019,22646.0879505241,23404.549163920376,21843.28684647052
+1,Deaths,97,Argentina,3,Both,22,All ages,688,Transport injuries,1,Number,2019,6782.858761117497,7127.086422368529,6428.386456009571
+1,Deaths,97,Argentina,3,Both,22,All ages,689,Road injuries,1,Number,2019,6317.681466121813,6647.054509502145,5975.070767475735
+1,Deaths,97,Argentina,3,Both,22,All ages,690,Pedestrian road injuries,1,Number,2019,1068.8953542196439,1138.0892021017978,997.1222680678877
+1,Deaths,97,Argentina,3,Both,22,All ages,691,Cyclist road injuries,1,Number,2019,236.00673171603623,261.32231500857034,213.24984931444737
+1,Deaths,97,Argentina,3,Both,22,All ages,692,Motorcyclist road injuries,1,Number,2019,1311.9975781287126,1470.4398998448924,1173.4651350933532
+1,Deaths,97,Argentina,3,Both,22,All ages,693,Motor vehicle road injuries,1,Number,2019,3623.832036351633,3842.798559180914,3392.493343377318
+1,Deaths,97,Argentina,3,Both,22,All ages,694,Other road injuries,1,Number,2019,76.94976570578821,88.8794681658444,66.01150830690105
+1,Deaths,97,Argentina,3,Both,22,All ages,695,Other transport injuries,1,Number,2019,465.17729499569117,512.961397829141,422.8017300840511
+1,Deaths,97,Argentina,3,Both,22,All ages,696,Unintentional injuries,1,Number,2019,7947.920154353903,8381.921722826703,7486.289473895894
+1,Deaths,97,Argentina,3,Both,22,All ages,697,Falls,1,Number,2019,1981.87130518353,2165.8403024752433,1793.0219038618593
+1,Deaths,97,Argentina,3,Both,22,All ages,698,Drowning,1,Number,2019,565.6117203226248,608.1464565415896,524.2159298052156
+1,Deaths,97,Argentina,3,Both,22,All ages,699,"Fire, heat, and hot substances",1,Number,2019,671.5634767930809,721.8832611977191,616.4827548354257
+1,Deaths,97,Argentina,3,Both,22,All ages,700,Poisonings,1,Number,2019,271.61833638647533,297.28313097857625,241.5564697752956
+1,Deaths,97,Argentina,3,Both,22,All ages,652,Other congenital birth defects,1,Number,2019,590.115539167791,795.9484524606635,343.1664546189422
+1,Deaths,97,Argentina,3,Both,22,All ages,653,Skin and subcutaneous diseases,1,Number,2019,2380.279355811933,3344.5807617363826,1364.9399141700937
+1,Deaths,97,Argentina,3,Both,22,All ages,656,Cellulitis,1,Number,2019,184.04538595423963,281.49066028717687,79.94051015899177
+1,Deaths,97,Argentina,3,Both,22,All ages,657,Pyoderma,1,Number,2019,963.2824733201202,1373.3888411050698,414.57719426419396
+1,Deaths,97,Argentina,3,Both,22,All ages,665,Decubitus ulcer,1,Number,2019,1184.883337259664,1804.5814221748396,724.4289121449801
+1,Deaths,97,Argentina,3,Both,22,All ages,668,Other skin and subcutaneous diseases,1,Number,2019,48.068159277904144,88.0422067993744,23.48006993762964
+1,Deaths,97,Argentina,3,Both,22,All ages,957,Enteric infections,1,Number,2019,761.17457709684,872.2627490782422,649.6553842674896
+1,Deaths,97,Argentina,3,Both,22,All ages,958,Typhoid and paratyphoid,1,Number,2019,1.3905898939654944,2.381823650191839,0.1957538318350467
+1,Deaths,97,Argentina,3,Both,22,All ages,959,Invasive Non-typhoidal Salmonella (iNTS),1,Number,2019,1.310661715527146,1.8674038362730585,0.3576859364833633
+1,Deaths,97,Argentina,3,Both,22,All ages,961,Other infectious diseases,1,Number,2019,949.1710844482517,1068.682301522662,864.5170412008374
+1,Deaths,97,Argentina,3,Both,22,All ages,962,Maternal and neonatal disorders,1,Number,2019,3649.5522320766227,4492.750969968417,2924.903204559189
+1,Deaths,97,Argentina,3,Both,22,All ages,964,"Myelodysplastic, myeloproliferative, and other hematopoietic neoplasms",1,Number,2019,539.5397275194586,672.7275854321083,395.28951789735146
+1,Deaths,97,Argentina,3,Both,22,All ages,968,Non-rheumatic calcific aortic valve disease,1,Number,2019,2165.8809586579937,2414.454527432957,1869.3320741432747
+1,Deaths,97,Argentina,3,Both,22,All ages,969,Non-rheumatic degenerative mitral valve disease,1,Number,2019,139.1830917596781,199.02827082141732,103.02691035544254
+1,Deaths,97,Argentina,3,Both,22,All ages,970,Other non-rheumatic valve diseases,1,Number,2019,3.338399289065436,4.72035513468266,1.6174290181448328
+1,Deaths,97,Argentina,3,Both,22,All ages,971,Cirrhosis and other chronic liver diseases due to NAFLD,1,Number,2019,847.7455749383945,1186.3752034497743,580.670294332896
+1,Deaths,97,Argentina,3,Both,22,All ages,973,Substance use disorders,1,Number,2019,906.6165007358876,985.5021585625176,830.079077994095
+1,Deaths,97,Argentina,3,Both,22,All ages,974,Diabetes and kidney diseases,1,Number,2019,26428.49176819108,28142.547461220114,24456.617482959777
+1,Deaths,97,Argentina,3,Both,22,All ages,701,Poisoning by carbon monoxide,1,Number,2019,232.8230839657027,254.10296851210128,207.9580441565451
+1,Deaths,97,Argentina,3,Both,22,All ages,703,Poisoning by other means,1,Number,2019,38.7952524207726,46.49581857951386,32.47256883596711
+1,Deaths,97,Argentina,3,Both,22,All ages,704,Exposure to mechanical forces,1,Number,2019,626.1704164393792,676.3496167124189,581.1374129970178
+1,Deaths,97,Argentina,3,Both,22,All ages,705,Unintentional firearm injuries,1,Number,2019,395.6500961331333,446.8192373929779,356.2050073993412
+1,Deaths,97,Argentina,3,Both,22,All ages,707,Other exposure to mechanical forces,1,Number,2019,230.52032030624719,262.0210592911522,185.94170387639582
+1,Deaths,97,Argentina,3,Both,22,All ages,1021,Liver cancer due to other causes,1,Number,2019,64.6589075943489,88.7024691821558,45.87300821385294
+1,Deaths,97,Argentina,3,Both,22,All ages,1022,Other malignant neoplasms,1,Number,2019,2882.063450740721,3164.0377508415568,2623.445193794862
+1,Deaths,97,Argentina,3,Both,22,All ages,1023,Other cardiovascular and circulatory diseases,1,Number,2019,5601.400726112496,6113.150760667188,4967.6141237029615
+1,Deaths,97,Argentina,3,Both,22,All ages,1026,Total burden related to hepatitis B,1,Number,2019,1011.6527173526039,1347.9809179920335,754.7535377871327
+1,Deaths,97,Argentina,3,Both,22,All ages,975,Diabetes mellitus type 1,1,Number,2019,543.3199870149674,689.7791636060978,402.32801796596436
+1,Deaths,97,Argentina,3,Both,22,All ages,976,Diabetes mellitus type 2,1,Number,2019,10218.399975344262,10970.754350087096,9426.07790195482
+1,Deaths,97,Argentina,3,Both,22,All ages,980,Bacterial skin diseases,1,Number,2019,1147.32785927436,1625.2919026346526,489.2719160405967
+1,Deaths,97,Argentina,3,Both,22,All ages,992,Upper digestive system diseases,1,Number,2019,1038.8560242691947,1205.6317597942973,879.2208655535959
+1,Deaths,97,Argentina,3,Both,22,All ages,995,Maternal abortion and miscarriage,1,Number,2019,74.81355223876557,94.29236332627738,59.77531404138505
+1,Deaths,97,Argentina,3,Both,22,All ages,996,Liver cancer due to NASH,1,Number,2019,109.84560668174221,157.87030193139518,74.97276822284928
+1,Deaths,97,Argentina,3,Both,22,All ages,997,Chronic kidney disease due to diabetes mellitus type 1,1,Number,2019,529.4671242673192,799.1264405410317,327.17910193915895
+1,Deaths,97,Argentina,3,Both,22,All ages,998,Chronic kidney disease due to diabetes mellitus type 2,1,Number,2019,4639.301255515902,5831.04279967438,3586.90021714192
+1,Deaths,97,Argentina,3,Both,22,All ages,1027,Total burden related to hepatitis C,1,Number,2019,3526.6213927821213,4326.979380057676,2822.8456663950737
+1,Deaths,97,Argentina,3,Both,22,All ages,1028,Total burden related to Non-alcoholic fatty liver disease (NAFLD),1,Number,2019,957.5911816201345,1297.3773997239457,682.4892194061313
+1,Deaths,97,Argentina,3,Both,22,All ages,1029,Total cancers,1,Number,2019,84669.0039029978,88255.44320195881,80375.56855595551
+1,Deaths,97,Argentina,3,Both,22,All ages,561,Drug use disorders,1,Number,2019,86.10481142538144,94.82436278980451,77.08343558028898
+1,Deaths,97,Argentina,3,Both,22,All ages,708,Adverse effects of medical treatment,1,Number,2019,1768.2986530421013,1978.0208307298594,1554.9499446323932
+1,Deaths,97,Argentina,3,Both,22,All ages,709,Animal contact,1,Number,2019,32.21135474026873,35.44190670587241,29.24937577319778
+1,Deaths,97,Argentina,3,Both,22,All ages,710,Venomous animal contact,1,Number,2019,17.207830191497553,19.345972473849184,15.080269212808775
+1,Deaths,97,Argentina,3,Both,22,All ages,711,Non-venomous animal contact,1,Number,2019,15.003524548771177,16.944597436245903,13.128124352456165
+1,Deaths,97,Argentina,3,Both,22,All ages,712,Foreign body,1,Number,2019,1062.9372318369847,1168.6164546557663,979.6042521032155
+1,Deaths,97,Argentina,3,Both,22,All ages,713,Pulmonary aspiration and foreign body in airway,1,Number,2019,1046.283097214022,1152.4465115193077,965.2174715317427
+1,Deaths,97,Argentina,3,Both,22,All ages,715,Foreign body in other body part,1,Number,2019,16.65413462296303,19.657527117725216,14.156389859424303
+1,Deaths,97,Argentina,3,Both,22,All ages,716,Other unintentional injuries,1,Number,2019,923.0458838003228,1007.3625693646536,854.7301592047418
+1,Deaths,97,Argentina,3,Both,22,All ages,717,Self-harm and interpersonal violence,1,Number,2019,7915.309035052688,8280.339669338753,7575.164161424251
+1,Deaths,97,Argentina,3,Both,22,All ages,718,Self-harm,1,Number,2019,5028.948885842157,5334.717418673677,4747.896779022516
+1,Deaths,97,Argentina,3,Both,22,All ages,721,Self-harm by firearm,1,Number,2019,1204.16150657149,1475.7545656710247,1052.167612236162
+1,Deaths,97,Argentina,3,Both,22,All ages,723,Self-harm by other specified means,1,Number,2019,3824.7873792706723,4111.8867210665,3513.0940087469135
+1,Deaths,97,Argentina,3,Both,22,All ages,724,Interpersonal violence,1,Number,2019,2881.485319092586,3089.4872669169936,2674.9293114668876
+1,Deaths,97,Argentina,3,Both,22,All ages,725,Physical violence by firearm,1,Number,2019,1708.6932689986143,1837.5651605829726,1579.0950256488475
+1,Deaths,97,Argentina,3,Both,22,All ages,441,Colon and rectum cancer,1,Number,2019,12886.35400176858,13759.110321726113,12008.439195222942
+1,Deaths,97,Argentina,3,Both,22,All ages,444,Lip and oral cavity cancer,1,Number,2019,844.3921029984326,908.8710922542513,779.4823348568228
+1,Deaths,97,Argentina,3,Both,22,All ages,447,Nasopharynx cancer,1,Number,2019,107.07657868475364,118.89040341819272,95.89015483812135
+1,Deaths,97,Argentina,3,Both,22,All ages,450,Other pharynx cancer,1,Number,2019,232.6350771647048,259.8931466654991,209.14365801136535
+1,Deaths,97,Argentina,3,Both,22,All ages,453,Gallbladder and biliary tract cancer,1,Number,2019,2181.2318242345536,2816.898429924443,1942.36314296749
+1,Deaths,97,Argentina,3,Both,22,All ages,456,Pancreatic cancer,1,Number,2019,6513.444396751967,7109.208400377707,5940.310729695616
+1,Deaths,97,Argentina,3,Both,22,All ages,459,Malignant skin melanoma,1,Number,2019,708.7855696613399,895.7516049234158,503.43752853382085
+1,Deaths,97,Argentina,3,Both,22,All ages,562,Opioid use disorders,1,Number,2019,48.16343305555431,53.38545561547716,42.859651520559865
+1,Deaths,97,Argentina,3,Both,22,All ages,563,Cocaine use disorders,1,Number,2019,9.698822231804057,10.799076994795149,8.59627508571227
+1,Deaths,97,Argentina,3,Both,22,All ages,564,Amphetamine use disorders,1,Number,2019,3.2916025486960976,3.719875169294297,2.861944231204286
+1,Deaths,97,Argentina,3,Both,22,All ages,566,Other drug use disorders,1,Number,2019,24.950953589326968,27.871920806385894,22.2530457441641
+1,Deaths,97,Argentina,3,Both,22,All ages,572,Eating disorders,1,Number,2019,0.9390787974431826,1.2246276930392435,0.7154528523872692
+1,Deaths,97,Argentina,3,Both,22,All ages,573,Anorexia nervosa,1,Number,2019,0.4803044097033472,0.6744597497269335,0.33199934027830236
+1,Deaths,97,Argentina,3,Both,22,All ages,574,Bulimia nervosa,1,Number,2019,0.45877438773983514,0.6459626424123536,0.3185780788574906
+1,Deaths,97,Argentina,3,Both,22,All ages,587,Diabetes mellitus,1,Number,2019,10761.719962359228,11539.430352127465,9982.522421091859
+1,Deaths,97,Argentina,3,Both,22,All ages,588,Acute glomerulonephritis,1,Number,2019,2.1106568642785133,2.6119644069409795,1.7247504011891348
+1,Deaths,97,Argentina,3,Both,22,All ages,589,Chronic kidney disease,1,Number,2019,15664.661148967558,17053.461593045828,14210.504727907099
+1,Deaths,97,Argentina,3,Both,22,All ages,591,Chronic kidney disease due to hypertension,1,Number,2019,5782.427412897887,6933.185631301526,4675.846583606303
+1,Deaths,97,Argentina,3,Both,22,All ages,592,Chronic kidney disease due to glomerulonephritis,1,Number,2019,1186.0432581668133,1634.7677992975478,854.259209633724
+1,Deaths,97,Argentina,3,Both,22,All ages,726,Physical violence by sharp object,1,Number,2019,729.4081777110986,789.5246381721621,674.5639303641257
+1,Deaths,97,Argentina,3,Both,22,All ages,727,Physical violence by other means,1,Number,2019,443.3838723828704,478.9384304851879,412.2381564267185
+1,Deaths,97,Argentina,3,Both,22,All ages,729,Exposure to forces of nature,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,741,Maternal deaths aggravated by HIV/AIDS,1,Number,2019,1.2669040407437628,2.3828903996774464,0.5603556237469457
+1,Deaths,97,Argentina,3,Both,22,All ages,842,Environmental heat and cold exposure,1,Number,2019,44.59177580911978,48.7473648594691,40.92107516412785
+1,Deaths,97,Argentina,3,Both,22,All ages,843,Ebola,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,593,Chronic kidney disease due to other and unspecified causes,1,Number,2019,3527.4220981196427,4700.884981866602,2591.2765516021814
+1,Deaths,97,Argentina,3,Both,22,All ages,594,Urinary diseases and male infertility,1,Number,2019,4575.25245480065,5289.00158541489,2497.4015207041066
+1,Deaths,97,Argentina,3,Both,22,All ages,595,Urinary tract infections and interstitial nephritis,1,Number,2019,4465.456836743461,5161.783582719694,2424.507440309452
+1,Deaths,97,Argentina,3,Both,22,All ages,596,Urolithiasis,1,Number,2019,14.372539132562233,20.21677562142238,9.757893959463651
+1,Deaths,97,Argentina,3,Both,22,All ages,602,Other urinary diseases,1,Number,2019,95.42307892463698,141.8536324944828,39.82151966857998
+1,Deaths,97,Argentina,3,Both,22,All ages,603,Gynecological diseases,1,Number,2019,17.719840894705996,31.037039721409386,14.558432561236271
+1,Deaths,97,Argentina,3,Both,22,All ages,604,Uterine fibroids,1,Number,2019,4.008261164163772,8.050317356141047,2.7434024697855706
+1,Deaths,97,Argentina,3,Both,22,All ages,607,Endometriosis,1,Number,2019,0.0933517114940625,0.1864693558702489,0.05431619814186671
+1,Deaths,97,Argentina,3,Both,22,All ages,608,Genital prolapse,1,Number,2019,0.9905588426968202,2.8853468173445433,0.5713308508371501
+1,Deaths,97,Argentina,3,Both,22,All ages,612,Other gynecological diseases,1,Number,2019,12.627669176351358,19.018486088040703,8.59638245777898
+1,Deaths,97,Argentina,3,Both,22,All ages,613,Hemoglobinopathies and hemolytic anemias,1,Number,2019,436.0220811111158,508.1837060611422,381.1558827926684
+1,Deaths,97,Argentina,3,Both,22,All ages,614,Thalassemias,1,Number,2019,25.592701973221885,31.883430300410048,20.61988062456727
+1,Deaths,97,Argentina,3,Both,22,All ages,845,Acute lymphoid leukemia,1,Number,2019,407.14356114470417,446.0926665217735,355.57164404819474
+1,Deaths,97,Argentina,3,Both,22,All ages,846,Chronic lymphoid leukemia,1,Number,2019,219.26447537846724,274.32145110854856,183.55253826365487
+1,Deaths,97,Argentina,3,Both,22,All ages,847,Acute myeloid leukemia,1,Number,2019,759.5579998775505,863.013448569877,666.4450928918426
+1,Deaths,97,Argentina,3,Both,22,All ages,848,Chronic myeloid leukemia,1,Number,2019,174.17983414731535,200.30917565626993,150.6736778082131
+1,Deaths,97,Argentina,3,Both,22,All ages,849,Non-melanoma skin cancer (squamous-cell carcinoma),1,Number,2019,468.87703664517704,507.2785043086257,421.4651796362151
+1,Deaths,97,Argentina,3,Both,22,All ages,854,Executions and police conflict,1,Number,2019,4.874830117947613,5.073575911334049,4.6899849398904765
+1,Deaths,97,Argentina,3,Both,22,All ages,934,Drug-susceptible tuberculosis,1,Number,2019,700.2075793887311,779.0926925927737,614.2649090494714
+1,Deaths,97,Argentina,3,Both,22,All ages,935,Zika virus,1,Number,2019,0.042446593758320446,0.19451693044809476,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,938,Alcoholic cardiomyopathy,1,Number,2019,81.0630858794046,107.79730640002262,60.68056150544804
+1,Deaths,97,Argentina,3,Both,22,All ages,942,Myocarditis,1,Number,2019,153.23277642722962,196.12659214177637,114.60725937516175
+1,Deaths,97,Argentina,3,Both,22,All ages,943,Other leukemia,1,Number,2019,1097.5360371362565,1207.0924738931371,986.9565852628846
+1,Deaths,97,Argentina,3,Both,22,All ages,944,Other cardiomyopathy,1,Number,2019,5941.862871352197,6658.8358580499225,4654.664680370367
+1,Deaths,97,Argentina,3,Both,22,All ages,945,Conflict and terrorism,1,Number,2019,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All ages,946,Multidrug-resistant tuberculosis without extensive drug resistance,1,Number,2019,21.124758940304638,80.0719007509779,2.3857865796522826
+1,Deaths,97,Argentina,3,Both,22,All ages,947,Extensively drug-resistant tuberculosis,1,Number,2019,5.558469917322234,21.126438465135195,0.6474562448227053
+1,Deaths,97,Argentina,3,Both,22,All ages,948,HIV/AIDS - Drug-susceptible Tuberculosis,1,Number,2019,742.2788470046008,802.2824455175,559.1120271149998
+1,Deaths,97,Argentina,3,Both,22,All ages,949,HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,1,Number,2019,26.185786953500024,96.54562663999994,2.98574728
+1,Deaths,97,Argentina,3,Both,22,All ages,950,HIV/AIDS - Extensively drug-resistant Tuberculosis,1,Number,2019,6.892289857699994,26.308145324999987,0.820009265
+1,Deaths,97,Argentina,3,Both,22,All ages,955,HIV/AIDS and sexually transmitted infections,1,Number,2019,1830.9266008615268,1870.1095336305048,1791.5778179152298
+1,Deaths,97,Argentina,3,Both,22,All ages,956,Respiratory infections and tuberculosis,1,Number,2019,36995.58198895186,40045.58871592401,33000.923095290884
